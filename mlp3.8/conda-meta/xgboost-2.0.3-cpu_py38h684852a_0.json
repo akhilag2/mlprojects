@@ -1,0 +1,36 @@
+{
+  "build": "cpu_py38h684852a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "py-xgboost 2.0.3 cpu_py38h684852a_0",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "C:\\Users\\akgeo\\.conda\\pkgs\\xgboost-2.0.3-cpu_py38h684852a_0",
+  "features": "",
+  "files": [],
+  "fn": "xgboost-2.0.3-cpu_py38h684852a_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\akgeo\\.conda\\pkgs\\xgboost-2.0.3-cpu_py38h684852a_0",
+    "type": 1
+  },
+  "md5": "07f010656e11e3af78712526456333fc",
+  "name": "xgboost",
+  "package_tarball_full_path": "C:\\Users\\akgeo\\.conda\\pkgs\\xgboost-2.0.3-cpu_py38h684852a_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "xgboost",
+  "sha256": "4803f692243f3c5866390ba7e6008e10adf738e356fec81e1b64c57d8640fdc1",
+  "size": 16556,
+  "subdir": "win-64",
+  "timestamp": 1703078932526,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xgboost-2.0.3-cpu_py38h684852a_0.conda",
+  "version": "2.0.3"
+}
